@@ -1,0 +1,6 @@
+gradio
+requests
+smolagents
+smolagents[openai]
+google-genai
+requests.adapters
